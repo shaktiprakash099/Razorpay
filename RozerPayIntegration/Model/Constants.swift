@@ -10,7 +10,7 @@ import Foundation
 struct Constants {
     
     static let RAZORPAYKEY = "rzp_test_MUthddDUFX1lLl"
-    
+    static let SECRETKEY = "secret_key"
 
 }
 
