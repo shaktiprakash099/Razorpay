@@ -1,0 +1,6 @@
+framework module Pods_RozerPayIntegrationTests {
+  umbrella header "Pods-RozerPayIntegrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
